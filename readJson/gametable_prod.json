@@ -1,0 +1,2989 @@
+{
+    "data": [
+        {
+            "hostID": "S-BAB-kuq37cc4a0",
+            "tableID": "BC-BAB-kuq37cc4a0",
+            "gameType": 27,
+            "name": "1",
+            "description": "CMS create blockchain table: BC-BAB-kuq37cc4a0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NSB5SU69OF9388DSG",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAB-kuq37cc4ag",
+            "tableID": "BC-BAB-kuq37cc4ag",
+            "gameType": 27,
+            "name": "2",
+            "description": "CMS create blockchain table: BC-BAB-kuq37cc4ag",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NFBBTALD6QVFVBA10",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAB-kuq37cc4b0",
+            "tableID": "BC-BAB-kuq37cc4b0",
+            "gameType": 27,
+            "name": "3",
+            "description": "CMS create blockchain table: BC-BAB-kuq37cc4b0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NR7RTALD6QVFVBH90",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAB-kuq37cc4bg",
+            "tableID": "BC-BAB-kuq37cc4bg",
+            "gameType": 27,
+            "name": "4",
+            "description": "CMS create blockchain table: BC-BAB-kuq37cc4bg",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NRI5SU69OF9388CT0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAMB-k2i098d8mg",
+            "tableID": "BC-BAMB-k2i098d8mg",
+            "gameType": 29,
+            "name": "1",
+            "description": "CMS create blockchain table: BC-BAMB-k2i098d8mg",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NS9JTALD6QVFVBIF0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAMB-k2i098d8n0",
+            "tableID": "BC-BAMB-k2i098d8n0",
+            "gameType": 29,
+            "name": "2",
+            "description": "CMS create blockchain table: BC-BAMB-k2i098d8n0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NG2DSU69OF93885O0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BAMB-k2i098d8ng",
+            "tableID": "BC-BAMB-k2i098d8ng",
+            "gameType": 29,
+            "name": "3",
+            "description": "CMS create blockchain table: BC-BAMB-k2i098d8ng",
+            "tableLimit": 1000000000,
+            "shoeID": "C54JGQLID38LR46H7DF0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BASB-k2i098d8og",
+            "tableID": "BC-BASB-k2i098d8og",
+            "gameType": 30,
+            "name": "1",
+            "description": "CMS create blockchain table: BC-BASB-k2i098d8og",
+            "tableLimit": 1000000000,
+            "shoeID": "C54O1ATSU69OF9388NB0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BASB-k2i098d8p0",
+            "tableID": "BC-BASB-k2i098d8p0",
+            "gameType": 30,
+            "name": "2",
+            "description": "CMS create blockchain table: BC-BASB-k2i098d8p0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NRVJTALD6QVFVBI20",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-BASB-k2i098d8pg",
+            "tableID": "BC-BASB-k2i098d8pg",
+            "gameType": 30,
+            "name": "3",
+            "description": "CMS create blockchain table: BC-BASB-k2i098d8pg",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NQSDSU69OF9388C90",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-DTB-k2i098d8lg",
+            "tableID": "BC-DTB-k2i098d8lg",
+            "gameType": 28,
+            "name": "2",
+            "description": "CMS create blockchain table: BC-DTB-k2i098d8lg",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NS0D3J8LBBLC6HQ0G",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-DTB-k2i098d8m0",
+            "tableID": "BC-DTB-k2i098d8m0",
+            "gameType": 28,
+            "name": "3",
+            "description": "CMS create blockchain table: BC-DTB-k2i098d8m0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NQVO8AQT1UAAVLMM0",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-DTB-k2i098d8o0",
+            "tableID": "BC-DTB-k2i098d8o0",
+            "gameType": 28,
+            "name": "4",
+            "description": "CMS create blockchain table: BC-DTB-k2i098d8o0",
+            "tableLimit": 1000000000,
+            "shoeID": "C5402PGO79G2ECG4L0HG",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-DTB-kuq37cc4c0",
+            "tableID": "BC-DTB-kuq37cc4c0",
+            "gameType": 28,
+            "name": "1",
+            "description": "CMS create blockchain table: BC-DTB-kuq37cc4c0",
+            "tableLimit": 1000000000,
+            "shoeID": "C54NSAD3J8LBBLC6HQ3G",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-1",
+            "tableID": "STUDIO-BAC-1",
+            "gameType": 0,
+            "name": "1",
+            "description": "Studio Live 1",
+            "tableLimit": 10000000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-10",
+            "tableID": "STUDIO-BAC-10",
+            "gameType": 0,
+            "name": "10",
+            "description": "Studio Live 10",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table010/table010_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table010/table010_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table010/table010_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table010/table010_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-101",
+            "tableID": "STUDIO-BAC-101",
+            "gameType": 0,
+            "name": "101",
+            "description": "Studio Live 101",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table101/table101_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table101/table101_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table101/table101_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table101/table101_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-102",
+            "tableID": "STUDIO-BAC-102",
+            "gameType": 0,
+            "name": "102",
+            "description": "Studio Live 102",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table102/table102_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table102/table102_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table102/table102_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table102/table102_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-103",
+            "tableID": "STUDIO-BAC-103",
+            "gameType": 0,
+            "name": "103",
+            "description": "Studio Live 103",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table103/table103_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table103/table103_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table103/table103_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table103/table103_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-104",
+            "tableID": "STUDIO-BAC-104",
+            "gameType": 0,
+            "name": "104",
+            "description": "Studio Live 104",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table104/table104_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table104/table104_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table104/table104_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table104/table104_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-105",
+            "tableID": "STUDIO-BAC-105",
+            "gameType": 0,
+            "name": "105",
+            "description": "Studio Live 105",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table105/table105_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table105/table105_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table105/table105_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table105/table105_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-106",
+            "tableID": "STUDIO-BAC-106",
+            "gameType": 0,
+            "name": "106",
+            "description": "Studio Live 106",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table106/table106_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table106/table106_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table106/table106_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table106/table106_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-107",
+            "tableID": "STUDIO-BAC-107",
+            "gameType": 0,
+            "name": "107",
+            "description": "Studio Live 107",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table107/table107_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table107/table107_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table107/table107_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table107/table107_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-108",
+            "tableID": "STUDIO-BAC-108",
+            "gameType": 0,
+            "name": "108",
+            "description": "Studio Live 108",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table108/table108_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table108/table108_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table108/table108_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table108/table108_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-109",
+            "tableID": "STUDIO-BAC-109",
+            "gameType": 0,
+            "name": "109",
+            "description": "Studio Live 109",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table109/table109_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table109/table109_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table109/table109_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table109/table109_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-11",
+            "tableID": "STUDIO-BAC-11",
+            "gameType": 0,
+            "name": "11",
+            "description": "Studio Live 11",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table011/table011_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table011/table011_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table011/table011_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table011/table011_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-110",
+            "tableID": "STUDIO-BAC-110",
+            "gameType": 0,
+            "name": "110",
+            "description": "Studio Live 110",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table110/table110_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table110/table110_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table110/table110_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table110/table110_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-111",
+            "tableID": "STUDIO-BAC-111",
+            "gameType": 0,
+            "name": "111",
+            "description": "Studio Live 111",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table111/table111_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table111/table111_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table111/table111_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table111/table111_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-112",
+            "tableID": "STUDIO-BAC-112",
+            "gameType": 0,
+            "name": "112",
+            "description": "Studio Live 112",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table112/table112_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table112/table112_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table112/table112_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table112/table112_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-113",
+            "tableID": "STUDIO-BAC-113",
+            "gameType": 0,
+            "name": "113",
+            "description": "Studio Live 113",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table113/table113_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table113/table113_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table113/table113_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table113/table113_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-114",
+            "tableID": "STUDIO-BAC-114",
+            "gameType": 0,
+            "name": "114",
+            "description": "Studio Live 114",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table114/table114_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table114/table114_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table114/table114_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table114/table114_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-115",
+            "tableID": "STUDIO-BAC-115",
+            "gameType": 0,
+            "name": "115",
+            "description": "Studio Live 115",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table115/table115_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table115/table115_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table115/table115_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table115/table115_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-116",
+            "tableID": "STUDIO-BAC-116",
+            "gameType": 0,
+            "name": "116",
+            "description": "Studio Live 116",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table116/table116_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table116/table116_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table116/table116_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table116/table116_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-117",
+            "tableID": "STUDIO-BAC-117",
+            "gameType": 0,
+            "name": "117",
+            "description": "Studio Live 117",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table117/table117_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table117/table117_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table117/table117_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table117/table117_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-118",
+            "tableID": "STUDIO-BAC-118",
+            "gameType": 0,
+            "name": "118",
+            "description": "Studio Live 118",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table118/table118_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table118/table118_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table118/table118_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table118/table118_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-119",
+            "tableID": "STUDIO-BAC-119",
+            "gameType": 0,
+            "name": "119",
+            "description": "Studio Live 119",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table119/table119_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table119/table119_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table119/table119_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table119/table119_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-12",
+            "tableID": "STUDIO-BAC-12",
+            "gameType": 0,
+            "name": "12",
+            "description": "Studio Live 12",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table012/table012_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table012/table012_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table012/table012_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table012/table012_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-13",
+            "tableID": "STUDIO-BAC-13",
+            "gameType": 0,
+            "name": "13",
+            "description": "Studio Live 13",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table013/table013_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table013/table013_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table013/table013_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table013/table013_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-14",
+            "tableID": "STUDIO-BAC-14",
+            "gameType": 0,
+            "name": "14",
+            "description": "Studio Live 14",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table014/table014_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table014/table014_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table014/table014_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table014/table014_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-15",
+            "tableID": "STUDIO-BAC-15",
+            "gameType": 0,
+            "name": "15",
+            "description": "Studio Live 15",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table015/table015_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table015/table015_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table015/table015_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table015/table015_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-16",
+            "tableID": "STUDIO-BAC-16",
+            "gameType": 0,
+            "name": "16",
+            "description": "Studio Live 16",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table016/table016_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table016/table016_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table016/table016_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table016/table016_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-17",
+            "tableID": "STUDIO-BAC-17",
+            "gameType": 0,
+            "name": "17",
+            "description": "Studio Live 17",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table017/table017_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table017/table017_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table017/table017_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table017/table017_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-18",
+            "tableID": "STUDIO-BAC-18",
+            "gameType": 0,
+            "name": "18",
+            "description": "Studio Live 18",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table018/table018_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table018/table018_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table018/table018_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table018/table018_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-19",
+            "tableID": "STUDIO-BAC-19",
+            "gameType": 0,
+            "name": "19",
+            "description": "Studio Live 19",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table019/table019_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table019/table019_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table019/table019_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table019/table019_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-2",
+            "tableID": "STUDIO-BAC-2",
+            "gameType": 0,
+            "name": "2",
+            "description": "Studio Live 2",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-20",
+            "tableID": "STUDIO-BAC-20",
+            "gameType": 0,
+            "name": "20",
+            "description": "Studio Live 20",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table020/table020_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table020/table020_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table020/table020_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table020/table020_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-21",
+            "tableID": "STUDIO-BAC-21",
+            "gameType": 0,
+            "name": "21",
+            "description": "Studio Live 21",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table021/table021_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table021/table021_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table021/table021_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table021/table021_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-22",
+            "tableID": "STUDIO-BAC-22",
+            "gameType": 0,
+            "name": "22",
+            "description": "Studio Live 22",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table022/table022_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table022/table022_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table022/table022_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table022/table022_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-23",
+            "tableID": "STUDIO-BAC-23",
+            "gameType": 0,
+            "name": "23",
+            "description": "Studio Live 23",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table023/table023_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table023/table023_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table023/table023_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table023/table023_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-24",
+            "tableID": "STUDIO-BAC-24",
+            "gameType": 0,
+            "name": "24",
+            "description": "Studio Live 24",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table024/table024_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table024/table024_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table024/table024_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table024/table024_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-25",
+            "tableID": "STUDIO-BAC-25",
+            "gameType": 0,
+            "name": "25",
+            "description": "Studio Live 25",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table025/table025_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table025/table025_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table025/table025_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table025/table025_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-26",
+            "tableID": "STUDIO-BAC-26",
+            "gameType": 0,
+            "name": "26",
+            "description": "Studio Live 26",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table026/table026_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table026/table026_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table026/table026_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table026/table026_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-27",
+            "tableID": "STUDIO-BAC-27",
+            "gameType": 0,
+            "name": "27",
+            "description": "Studio Live 27",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table027/table027_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table027/table027_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table027/table027_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table027/table027_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-28",
+            "tableID": "STUDIO-BAC-28",
+            "gameType": 0,
+            "name": "28",
+            "description": "Studio Live 28",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table028/table028_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table028/table028_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table028/table028_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table028/table028_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-29",
+            "tableID": "STUDIO-BAC-29",
+            "gameType": 0,
+            "name": "29",
+            "description": "Studio Live 29",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table029/table029_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table029/table029_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table029/table029_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table029/table029_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-3",
+            "tableID": "STUDIO-BAC-3",
+            "gameType": 0,
+            "name": "3",
+            "description": "Studio Live 3",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-30",
+            "tableID": "STUDIO-BAC-30",
+            "gameType": 0,
+            "name": "30",
+            "description": "Studio Live 30",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table030/table030_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table030/table030_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table030/table030_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table030/table030_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-31",
+            "tableID": "STUDIO-BAC-31",
+            "gameType": 0,
+            "name": "31",
+            "description": "Studio Live 31",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table031/table031_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table031/table031_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table031/table031_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table031/table031_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-32",
+            "tableID": "STUDIO-BAC-32",
+            "gameType": 0,
+            "name": "32",
+            "description": "Studio Live 32",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table032/table032_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table032/table032_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table032/table032_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table032/table032_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-33",
+            "tableID": "STUDIO-BAC-33",
+            "gameType": 0,
+            "name": "33",
+            "description": "Studio Live 33",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table033/table033_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table033/table033_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table033/table033_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table033/table033_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-34",
+            "tableID": "STUDIO-BAC-34",
+            "gameType": 0,
+            "name": "34",
+            "description": "Studio Live 34",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table034/table034_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table034/table034_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table034/table034_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table034/table034_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-35",
+            "tableID": "STUDIO-BAC-35",
+            "gameType": 0,
+            "name": "35",
+            "description": "Studio Live 35",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table035/table035_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table035/table035_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table035/table035_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table035/table035_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-36",
+            "tableID": "STUDIO-BAC-36",
+            "gameType": 0,
+            "name": "36",
+            "description": "Studio Live 36",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table036/table036_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table036/table036_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table036/table036_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table036/table036_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-37",
+            "tableID": "STUDIO-BAC-37",
+            "gameType": 0,
+            "name": "37",
+            "description": "Studio Live 37",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table037/table037_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table037/table037_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table037/table037_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table037/table037_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-38",
+            "tableID": "STUDIO-BAC-38",
+            "gameType": 0,
+            "name": "38",
+            "description": "Studio Live 38",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table038/table038_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table038/table038_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table038/table038_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table038/table038_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-39",
+            "tableID": "STUDIO-BAC-39",
+            "gameType": 0,
+            "name": "39",
+            "description": "Studio Live 39",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table039/table039_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table039/table039_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table039/table039_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table039/table039_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-4",
+            "tableID": "STUDIO-BAC-4",
+            "gameType": 0,
+            "name": "4",
+            "description": "Studio Live 4",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-40",
+            "tableID": "STUDIO-BAC-40",
+            "gameType": 0,
+            "name": "40",
+            "description": "Studio Live 40",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table040/table040_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table040/table040_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table040/table040_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table040/table040_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-41",
+            "tableID": "STUDIO-BAC-41",
+            "gameType": 0,
+            "name": "41",
+            "description": "Studio Live 41",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table041/table041_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table041/table041_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table041/table041_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table041/table041_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-42",
+            "tableID": "STUDIO-BAC-42",
+            "gameType": 0,
+            "name": "42",
+            "description": "Studio Live 42",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table042/table042_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table042/table042_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table042/table042_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table042/table042_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-43",
+            "tableID": "STUDIO-BAC-43",
+            "gameType": 0,
+            "name": "43",
+            "description": "Studio Live 43",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table043/table043_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table043/table043_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table043/table043_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table043/table043_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-44",
+            "tableID": "STUDIO-BAC-44",
+            "gameType": 0,
+            "name": "44",
+            "description": "Studio Live 44",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table044/table044_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table044/table044_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table044/table044_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table044/table044_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-45",
+            "tableID": "STUDIO-BAC-45",
+            "gameType": 0,
+            "name": "45",
+            "description": "Studio Live 45",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table045/table045_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table045/table045_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table045/table045_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table045/table045_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-46",
+            "tableID": "STUDIO-BAC-46",
+            "gameType": 0,
+            "name": "46",
+            "description": "Studio Live 46",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table046/table046_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table046/table046_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table046/table046_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table046/table046_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-47",
+            "tableID": "STUDIO-BAC-47",
+            "gameType": 0,
+            "name": "47",
+            "description": "Studio Live 47",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table047/table047_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table047/table047_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table047/table047_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table047/table047_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-48",
+            "tableID": "STUDIO-BAC-48",
+            "gameType": 0,
+            "name": "48",
+            "description": "Studio Live 48",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table048/table048_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table048/table048_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table048/table048_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table048/table048_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-49",
+            "tableID": "STUDIO-BAC-49",
+            "gameType": 0,
+            "name": "49",
+            "description": "Studio Live 49",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table049/table049_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table049/table049_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table049/table049_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table049/table049_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-5",
+            "tableID": "STUDIO-BAC-5",
+            "gameType": 0,
+            "name": "5",
+            "description": "Studio Live 5",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table005/table005_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table005/table005_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table005/table005_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table005/table005_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-50",
+            "tableID": "STUDIO-BAC-50",
+            "gameType": 0,
+            "name": "50",
+            "description": "Studio Live 50",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table050/table050_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table050/table050_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table050/table050_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table050/table050_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-51",
+            "tableID": "STUDIO-BAC-51",
+            "gameType": 0,
+            "name": "51",
+            "description": "Studio Live 51",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table051/table051_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table051/table051_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table051/table051_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table051/table051_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-52",
+            "tableID": "STUDIO-BAC-52",
+            "gameType": 0,
+            "name": "52",
+            "description": "Studio Live 52",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table052/table052_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table052/table052_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table052/table052_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table052/table052_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-53",
+            "tableID": "STUDIO-BAC-53",
+            "gameType": 0,
+            "name": "53",
+            "description": "Studio Live 53",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table053/table053_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table053/table053_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table053/table053_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table053/table053_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-54",
+            "tableID": "STUDIO-BAC-54",
+            "gameType": 0,
+            "name": "54",
+            "description": "Studio Live 54",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table054/table054_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table054/table054_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table054/table054_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table054/table054_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-55",
+            "tableID": "STUDIO-BAC-55",
+            "gameType": 0,
+            "name": "55",
+            "description": "Studio Live 55",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table055/table055_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table055/table055_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table055/table055_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table055/table055_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-56",
+            "tableID": "STUDIO-BAC-56",
+            "gameType": 0,
+            "name": "56",
+            "description": "Studio Live 56",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table056/table056_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table056/table056_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table056/table056_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table056/table056_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-57",
+            "tableID": "STUDIO-BAC-57",
+            "gameType": 0,
+            "name": "57",
+            "description": "Studio Live 57",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table057/table057_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table057/table057_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table057/table057_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table057/table057_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-58",
+            "tableID": "STUDIO-BAC-58",
+            "gameType": 0,
+            "name": "58",
+            "description": "Studio Live 58",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table058/table058_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table058/table058_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table058/table058_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table058/table058_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-59",
+            "tableID": "STUDIO-BAC-59",
+            "gameType": 0,
+            "name": "59",
+            "description": "Studio Live 59",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table059/table059_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table059/table059_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table059/table059_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table059/table059_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-6",
+            "tableID": "STUDIO-BAC-6",
+            "gameType": 0,
+            "name": "6",
+            "description": "Studio Live 6",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table006/table006_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table006/table006_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table006/table006_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table006/table006_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-60",
+            "tableID": "STUDIO-BAC-60",
+            "gameType": 0,
+            "name": "60",
+            "description": "Studio Live 60",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table060/table060_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table060/table060_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table060/table060_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table060/table060_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-61",
+            "tableID": "STUDIO-BAC-61",
+            "gameType": 0,
+            "name": "61",
+            "description": "Studio Live 61",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table061/table061_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table061/table061_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table061/table061_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table061/table061_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-62",
+            "tableID": "STUDIO-BAC-62",
+            "gameType": 0,
+            "name": "62",
+            "description": "Studio Live 62",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table062/table062_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table062/table062_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table062/table062_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table062/table062_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-63",
+            "tableID": "STUDIO-BAC-63",
+            "gameType": 0,
+            "name": "63",
+            "description": "Studio Live 63",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table063/table063_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table063/table063_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table063/table063_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table063/table063_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-64",
+            "tableID": "STUDIO-BAC-64",
+            "gameType": 0,
+            "name": "64",
+            "description": "Studio Live 64",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table064/table064_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table064/table064_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table064/table064_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table064/table064_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-65",
+            "tableID": "STUDIO-BAC-65",
+            "gameType": 0,
+            "name": "65",
+            "description": "Studio Live 65",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table065/table065_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table065/table065_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table065/table065_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table065/table065_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-66",
+            "tableID": "STUDIO-BAC-66",
+            "gameType": 0,
+            "name": "66",
+            "description": "Studio Live 66",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table066/table066_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table066/table066_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table066/table066_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table066/table066_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-67",
+            "tableID": "STUDIO-BAC-67",
+            "gameType": 0,
+            "name": "67",
+            "description": "Studio Live 67",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table067/table067_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table067/table067_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table067/table067_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table067/table067_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-68",
+            "tableID": "STUDIO-BAC-68",
+            "gameType": 0,
+            "name": "68",
+            "description": "Studio Live 68",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table068/table068_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table068/table068_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table068/table068_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table068/table068_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-69",
+            "tableID": "STUDIO-BAC-69",
+            "gameType": 0,
+            "name": "69",
+            "description": "Studio Live 69",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table069/table069_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table069/table069_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table069/table069_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table069/table069_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-7",
+            "tableID": "STUDIO-BAC-7",
+            "gameType": 0,
+            "name": "7",
+            "description": "Studio Live 7",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table007/table007_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table007/table007_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table007/table007_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table007/table007_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-70",
+            "tableID": "STUDIO-BAC-70",
+            "gameType": 0,
+            "name": "70",
+            "description": "Studio Live 70",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table070/table070_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table070/table070_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table070/table070_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table070/table070_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-71",
+            "tableID": "STUDIO-BAC-71",
+            "gameType": 0,
+            "name": "71",
+            "description": "Studio Live 71",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table071/table071_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table071/table071_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table071/table071_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table071/table071_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-72",
+            "tableID": "STUDIO-BAC-72",
+            "gameType": 0,
+            "name": "72",
+            "description": "Studio Live 72",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table072/table072_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table072/table072_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table072/table072_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table072/table072_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-73",
+            "tableID": "STUDIO-BAC-73",
+            "gameType": 0,
+            "name": "73",
+            "description": "Studio Live 73",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table073/table073_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table073/table073_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table073/table073_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table073/table073_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-74",
+            "tableID": "STUDIO-BAC-74",
+            "gameType": 0,
+            "name": "74",
+            "description": "Studio Live 74",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table074/table074_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table074/table074_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table074/table074_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table074/table074_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-75",
+            "tableID": "STUDIO-BAC-75",
+            "gameType": 0,
+            "name": "75",
+            "description": "Studio Live 75",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table075/table075_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table075/table075_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table075/table075_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table075/table075_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-76",
+            "tableID": "STUDIO-BAC-76",
+            "gameType": 0,
+            "name": "76",
+            "description": "Studio Live 76",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table076/table076_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table076/table076_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table076/table076_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table076/table076_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-77",
+            "tableID": "STUDIO-BAC-77",
+            "gameType": 0,
+            "name": "77",
+            "description": "Studio Live 77",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table077/table077_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table077/table077_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table077/table077_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table077/table077_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-78",
+            "tableID": "STUDIO-BAC-78",
+            "gameType": 0,
+            "name": "78",
+            "description": "Studio Live 78",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table078/table078_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table078/table078_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table078/table078_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table078/table078_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-79",
+            "tableID": "STUDIO-BAC-79",
+            "gameType": 0,
+            "name": "79",
+            "description": "Studio Live 79",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table079/table079_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table079/table079_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table079/table079_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table079/table079_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-8",
+            "tableID": "STUDIO-BAC-8",
+            "gameType": 0,
+            "name": "8",
+            "description": "Studio Live 8",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table008/table008_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table008/table008_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table008/table008_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table008/table008_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-80",
+            "tableID": "STUDIO-BAC-80",
+            "gameType": 0,
+            "name": "80",
+            "description": "Studio Live 80",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table080/table080_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table080/table080_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table080/table080_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table080/table080_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-81",
+            "tableID": "STUDIO-BAC-81",
+            "gameType": 0,
+            "name": "81",
+            "description": "Studio Live 81",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table081/table081_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table081/table081_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table081/table081_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table081/table081_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-82",
+            "tableID": "STUDIO-BAC-82",
+            "gameType": 0,
+            "name": "82",
+            "description": "Studio Live 82",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table082/table082_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table082/table082_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table082/table082_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table082/table082_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-83",
+            "tableID": "STUDIO-BAC-83",
+            "gameType": 0,
+            "name": "83",
+            "description": "Studio Live 83",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table083/table083_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table083/table083_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table083/table083_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table083/table083_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-84",
+            "tableID": "STUDIO-BAC-84",
+            "gameType": 0,
+            "name": "84",
+            "description": "Studio Live 84",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table084/table084_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table084/table084_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table084/table084_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table084/table084_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-85",
+            "tableID": "STUDIO-BAC-85",
+            "gameType": 0,
+            "name": "85",
+            "description": "Studio Live 85",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table085/table085_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table085/table085_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table085/table085_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table085/table085_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-86",
+            "tableID": "STUDIO-BAC-86",
+            "gameType": 0,
+            "name": "86",
+            "description": "Studio Live 86",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table086/table086_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table086/table086_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table086/table086_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table086/table086_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-87",
+            "tableID": "STUDIO-BAC-87",
+            "gameType": 0,
+            "name": "87",
+            "description": "Studio Live 87",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table087/table087_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table087/table087_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table087/table087_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table087/table087_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-88",
+            "tableID": "STUDIO-BAC-88",
+            "gameType": 0,
+            "name": "88",
+            "description": "Studio Live 88",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table088/table088_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table088/table088_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table088/table088_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table088/table088_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-89",
+            "tableID": "STUDIO-BAC-89",
+            "gameType": 0,
+            "name": "89",
+            "description": "Studio Live 89",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table089/table089_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table089/table089_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table089/table089_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table089/table089_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-9",
+            "tableID": "STUDIO-BAC-9",
+            "gameType": 0,
+            "name": "9",
+            "description": "Studio Live 9",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table009/table009_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table009/table009_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table009/table009_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table009/table009_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-90",
+            "tableID": "STUDIO-BAC-90",
+            "gameType": 0,
+            "name": "90",
+            "description": "Studio Live 90",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table090/table090_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table090/table090_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table090/table090_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table090/table090_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-901",
+            "tableID": "STUDIO-BAC-901",
+            "gameType": 0,
+            "name": "901",
+            "description": "Studio Live 901",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table901/table901_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table901/table901_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table901/table901_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table901/table901_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-902",
+            "tableID": "STUDIO-BAC-902",
+            "gameType": 0,
+            "name": "902",
+            "description": "Studio Live 902",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table902/table902_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table902/table902_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table902/table902_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table902/table902_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-903",
+            "tableID": "STUDIO-BAC-903",
+            "gameType": 0,
+            "name": "903",
+            "description": "Studio Live 903",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table903/table903_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table903/table903_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table903/table903_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table903/table903_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-904",
+            "tableID": "STUDIO-BAC-904",
+            "gameType": 0,
+            "name": "904",
+            "description": "Studio Live 904",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table904/table904_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table904/table904_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table904/table904_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table904/table904_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-905",
+            "tableID": "STUDIO-BAC-905",
+            "gameType": 0,
+            "name": "905",
+            "description": "Studio Live 905",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table905/table905_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table905/table905_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table905/table905_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table905/table905_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-906",
+            "tableID": "STUDIO-BAC-906",
+            "gameType": 0,
+            "name": "906",
+            "description": "Studio Live 906",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table906/table906_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table906/table906_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table906/table906_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table906/table906_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-907",
+            "tableID": "STUDIO-BAC-907",
+            "gameType": 0,
+            "name": "907",
+            "description": "Studio Live 907",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table907/table907_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table907/table907_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table907/table907_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table907/table907_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-908",
+            "tableID": "STUDIO-BAC-908",
+            "gameType": 0,
+            "name": "908",
+            "description": "Studio Live 908",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table908/table908_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table908/table908_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table908/table908_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table908/table908_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-909",
+            "tableID": "STUDIO-BAC-909",
+            "gameType": 0,
+            "name": "909",
+            "description": "Studio Live 909",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table909/table909_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table909/table909_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table909/table909_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table909/table909_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-910",
+            "tableID": "STUDIO-BAC-910",
+            "gameType": 0,
+            "name": "910",
+            "description": "Studio Live 910",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table910/table910_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table910/table910_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table910/table910_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table910/table910_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-101",
+            "tableID": "STUDIO-DIL-101",
+            "gameType": 19,
+            "name": "101",
+            "description": "Studio Live 101",
+            "tableLimit": 100000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table101/table101_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table101/table101_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table101/table101_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table101/table101_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-102",
+            "tableID": "STUDIO-DIL-102",
+            "gameType": 19,
+            "name": "102",
+            "description": "Studio Live 102",
+            "tableLimit": 100000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table102/table102_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table102/table102_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table102/table102_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table102/table102_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-103",
+            "tableID": "STUDIO-DIL-103",
+            "gameType": 19,
+            "name": "103",
+            "description": "Studio Live 103",
+            "tableLimit": 100000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table103/table103_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table103/table103_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table103/table103_acam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table103/table103_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "S-HOST-203",
+            "tableID": "STUDIO-LO-203",
+            "gameType": 15,
+            "name": "4",
+            "description": "時時彩4 - PHI5I5004",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.134",
+                "mcu": "F5",
+                "type": "host"
+            }
+        },
+        {
+            "hostID": "S-HOST-311",
+            "tableID": "STUDIO-LO-311",
+            "gameType": 15,
+            "name": "1",
+            "description": "時時彩1 - PHI5I5001",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": {
+                "counter": "90",
+                "ip": "192.168.167.131",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-312",
+            "tableID": "STUDIO-LO-312",
+            "gameType": 15,
+            "name": "2",
+            "description": "時時彩2 - PHI5I5002",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": {
+                "counter": "90",
+                "ip": "192.168.167.132",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-313",
+            "tableID": "STUDIO-LO-313",
+            "gameType": 15,
+            "name": "5",
+            "description": "時時彩5 - PHI5I5005",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table005/table005_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table005/table005_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table005/table005_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table005/table005_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.135",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-314",
+            "tableID": "STUDIO-LO-314",
+            "gameType": 15,
+            "name": "6",
+            "description": "時時彩6 - PHI5I5006",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table006/table006_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table006/table006_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table006/table006_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table006/table006_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.136",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-315",
+            "tableID": "STUDIO-LO-315",
+            "gameType": 15,
+            "name": "7",
+            "description": "時時彩7 - PHI5I5007",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table007/table007_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table007/table007_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table007/table007_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table007/table007_card_1080.flv"
+            },
+            "meta": {
+                "counter": "300",
+                "ip": "192.168.167.137",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-316",
+            "tableID": "STUDIO-LO-316",
+            "gameType": 15,
+            "name": "3",
+            "description": "時時彩3 - PHI5I5003",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": {
+                "counter": "300",
+                "ip": "192.168.167.133",
+                "mcu": "F5",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-201",
+            "tableID": "STUDIO-RC-201",
+            "gameType": 22,
+            "name": "6",
+            "description": "北京賽車6 - PHIPK6006",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table006/table006_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table006/table006_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table006/table006_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table006/table006_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.86",
+                "mcu": "F10",
+                "type": "host"
+            }
+        },
+        {
+            "hostID": "S-HOST-301",
+            "tableID": "STUDIO-RC-301",
+            "gameType": 22,
+            "name": "1",
+            "description": "北京賽車1 - PHIPK6001",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": {
+                "counter": "90",
+                "ip": "192.168.167.81",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-302",
+            "tableID": "STUDIO-RC-302",
+            "gameType": 22,
+            "name": "2",
+            "description": "北京賽車2 - PHIPK6002",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": {
+                "counter": "90",
+                "ip": "192.168.167.82",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-303",
+            "tableID": "STUDIO-RC-303",
+            "gameType": 22,
+            "name": "3",
+            "description": "北京賽車3 - PHIPK6003",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.83",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-304",
+            "tableID": "STUDIO-RC-304",
+            "gameType": 22,
+            "name": "4",
+            "description": "北京賽車4 - PHIPK6004",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": {
+                "counter": "180",
+                "ip": "192.168.167.84",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-305",
+            "tableID": "STUDIO-RC-305",
+            "gameType": 22,
+            "name": "5",
+            "description": "北京賽車5 - PHIPK6005",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table005/table005_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table005/table005_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table005/table005_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table005/table005_card_1080.flv"
+            },
+            "meta": {
+                "counter": "300",
+                "ip": "192.168.167.85",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "S-HOST-306",
+            "tableID": "STUDIO-RC-306",
+            "gameType": 22,
+            "name": "7",
+            "description": "北京賽車7 - PHIPK6007",
+            "tableLimit": 1000000,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table007/table007_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table007/table007_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table007/table007_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table007/table007_card_1080.flv"
+            },
+            "meta": {
+                "counter": "300",
+                "ip": "192.168.167.87",
+                "mcu": "F10",
+                "type": "auto"
+            }
+        },
+        {
+            "hostID": "T-HOST-1",
+            "tableID": "TEST-BAC-1",
+            "gameType": 0,
+            "name": "1",
+            "description": "Test Live 1",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table001/table001_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table001/table001_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table001/table001_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table001/table001_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-10",
+            "tableID": "TEST-BAC-10",
+            "gameType": 0,
+            "name": "10",
+            "description": "Test Live 10",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table010/table010_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table010/table010_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table010/table010_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table010/table010_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-2",
+            "tableID": "TEST-BAC-2",
+            "gameType": 0,
+            "name": "2",
+            "description": "Test Live 2",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table002/table002_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table002/table002_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table002/table002_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table002/table002_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-3",
+            "tableID": "TEST-BAC-3",
+            "gameType": 0,
+            "name": "3",
+            "description": "Test Live 3",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table003/table003_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table003/table003_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table003/table003_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table003/table003_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-4",
+            "tableID": "TEST-BAC-4",
+            "gameType": 0,
+            "name": "4",
+            "description": "Test Live 4",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table004/table004_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table004/table004_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table004/table004_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table004/table004_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-5",
+            "tableID": "TEST-BAC-5",
+            "gameType": 0,
+            "name": "5",
+            "description": "Test Live 5",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table005/table005_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table005/table005_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table005/table005_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table005/table005_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-6",
+            "tableID": "TEST-BAC-6",
+            "gameType": 0,
+            "name": "6",
+            "description": "Test Live 6",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table006/table006_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table006/table006_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table006/table006_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table006/table006_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-7",
+            "tableID": "TEST-BAC-7",
+            "gameType": 0,
+            "name": "7",
+            "description": "Test Live 7",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table007/table007_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table007/table007_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table007/table007_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table007/table007_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-8",
+            "tableID": "TEST-BAC-8",
+            "gameType": 0,
+            "name": "8",
+            "description": "Test Live 8",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table008/table008_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table008/table008_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table008/table008_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table008/table008_card_1080.flv"
+            },
+            "meta": null
+        },
+        {
+            "hostID": "T-HOST-9",
+            "tableID": "TEST-BAC-9",
+            "gameType": 0,
+            "name": "9",
+            "description": "Test Live 9",
+            "tableLimit": 0,
+            "shoeID": "",
+            "phone": "",
+            "video": {
+                "disabled": "",
+                "wide_1080": "https://live.unweg.com/table009/table009_acam_1080.flv",
+                "wide_360": "https://live.unweg.com/table009/table009_bcam_360.flv",
+                "wide_720": "https://live.unweg.com/table009/table009_bcam_720.flv",
+                "zoom_1080": "https://live.unweg.com/table009/table009_card_1080.flv"
+            },
+            "meta": null
+        }
+    ],
+    "enum": {
+        "ALL": 1000,
+        "BAB": 27,
+        "BAC": 0,
+        "BAI": 2,
+        "BAM": 18,
+        "BAMB": 29,
+        "BAS": 1,
+        "BASB": 30,
+        "DI": 12,
+        "DIB": 32,
+        "DIL": 19,
+        "DT": 5,
+        "DTB": 28,
+        "E5": 24,
+        "F3": 23,
+        "INFO": 100,
+        "L28": 25,
+        "LO": 15,
+        "LW": 16,
+        "LWB": 31,
+        "MJ": 13,
+        "MS": 21,
+        "OX": 35,
+        "OXB": 37,
+        "PITBOSS": 90,
+        "RC": 22,
+        "RO": 14,
+        "ROB": 33,
+        "ROL": 17,
+        "SLOT": 20,
+        "SP": 26,
+        "ZJH": 34,
+        "ZJHB": 36
+    }
+}

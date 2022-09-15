@@ -1,0 +1,762 @@
+[
+    {
+        "tableID": "BC-BAB-o2ol3gdnlg",
+        "gameType": 27,
+        "name": "4"
+    },
+    {
+        "tableID": "BC-BAB-tuet45k7h0",
+        "gameType": 27,
+        "name": "1"
+    },
+    {
+        "tableID": "BC-BAB-tuet45k7hg",
+        "gameType": 27,
+        "name": "2"
+    },
+    {
+        "tableID": "BC-BAB-tuet45k7i0",
+        "gameType": 27,
+        "name": "3"
+    },
+    {
+        "tableID": "BC-BAMB-tnnm95ul00",
+        "gameType": 29,
+        "name": "1"
+    },
+    {
+        "tableID": "BC-BASB-tnnm95ul0g",
+        "gameType": 30,
+        "name": "1"
+    },
+    {
+        "tableID": "BC-DTB-tuet45k7ig",
+        "gameType": 28,
+        "name": "1"
+    },
+    {
+        "tableID": "BC-DTB-tuet45k7j0",
+        "gameType": 28,
+        "name": "2"
+    },
+    {
+        "tableID": "BC-DTB-tuet45k7jg",
+        "gameType": 28,
+        "name": "3"
+    },
+    {
+        "tableID": "STUDIO-BAC-1",
+        "gameType": 0,
+        "name": "1"
+    },
+    {
+        "tableID": "STUDIO-BAC-10",
+        "gameType": 0,
+        "name": "10"
+    },
+    {
+        "tableID": "STUDIO-BAC-104",
+        "gameType": 0,
+        "name": "104"
+    },
+    {
+        "tableID": "STUDIO-BAC-105",
+        "gameType": 0,
+        "name": "105"
+    },
+    {
+        "tableID": "STUDIO-BAC-106",
+        "gameType": 0,
+        "name": "106"
+    },
+    {
+        "tableID": "STUDIO-BAC-107",
+        "gameType": 0,
+        "name": "107"
+    },
+    {
+        "tableID": "STUDIO-BAC-108",
+        "gameType": 0,
+        "name": "108"
+    },
+    {
+        "tableID": "STUDIO-BAC-109",
+        "gameType": 0,
+        "name": "109"
+    },
+    {
+        "tableID": "STUDIO-BAC-11",
+        "gameType": 0,
+        "name": "11"
+    },
+    {
+        "tableID": "STUDIO-BAC-110",
+        "gameType": 0,
+        "name": "110"
+    },
+    {
+        "tableID": "STUDIO-BAC-111",
+        "gameType": 0,
+        "name": "111"
+    },
+    {
+        "tableID": "STUDIO-BAC-112",
+        "gameType": 0,
+        "name": "112"
+    },
+    {
+        "tableID": "STUDIO-BAC-113",
+        "gameType": 0,
+        "name": "113"
+    },
+    {
+        "tableID": "STUDIO-BAC-114",
+        "gameType": 0,
+        "name": "114"
+    },
+    {
+        "tableID": "STUDIO-BAC-115",
+        "gameType": 0,
+        "name": "115"
+    },
+    {
+        "tableID": "STUDIO-BAC-116",
+        "gameType": 0,
+        "name": "116"
+    },
+    {
+        "tableID": "STUDIO-BAC-117",
+        "gameType": 0,
+        "name": "117"
+    },
+    {
+        "tableID": "STUDIO-BAC-118",
+        "gameType": 0,
+        "name": "118"
+    },
+    {
+        "tableID": "STUDIO-BAC-119",
+        "gameType": 0,
+        "name": "119"
+    },
+    {
+        "tableID": "STUDIO-BAC-12",
+        "gameType": 0,
+        "name": "12"
+    },
+    {
+        "tableID": "STUDIO-BAC-13",
+        "gameType": 0,
+        "name": "13"
+    },
+    {
+        "tableID": "STUDIO-BAC-14",
+        "gameType": 0,
+        "name": "14"
+    },
+    {
+        "tableID": "STUDIO-BAC-15",
+        "gameType": 0,
+        "name": "15"
+    },
+    {
+        "tableID": "STUDIO-BAC-16",
+        "gameType": 0,
+        "name": "16"
+    },
+    {
+        "tableID": "STUDIO-BAC-17",
+        "gameType": 0,
+        "name": "17"
+    },
+    {
+        "tableID": "STUDIO-BAC-18",
+        "gameType": 0,
+        "name": "18"
+    },
+    {
+        "tableID": "STUDIO-BAC-19",
+        "gameType": 0,
+        "name": "19"
+    },
+    {
+        "tableID": "STUDIO-BAC-2",
+        "gameType": 0,
+        "name": "2"
+    },
+    {
+        "tableID": "STUDIO-BAC-20",
+        "gameType": 0,
+        "name": "20"
+    },
+    {
+        "tableID": "STUDIO-BAC-21",
+        "gameType": 0,
+        "name": "21"
+    },
+    {
+        "tableID": "STUDIO-BAC-22",
+        "gameType": 0,
+        "name": "22"
+    },
+    {
+        "tableID": "STUDIO-BAC-23",
+        "gameType": 0,
+        "name": "23"
+    },
+    {
+        "tableID": "STUDIO-BAC-24",
+        "gameType": 0,
+        "name": "24"
+    },
+    {
+        "tableID": "STUDIO-BAC-25",
+        "gameType": 0,
+        "name": "25"
+    },
+    {
+        "tableID": "STUDIO-BAC-26",
+        "gameType": 0,
+        "name": "26"
+    },
+    {
+        "tableID": "STUDIO-BAC-27",
+        "gameType": 0,
+        "name": "27"
+    },
+    {
+        "tableID": "STUDIO-BAC-28",
+        "gameType": 0,
+        "name": "28"
+    },
+    {
+        "tableID": "STUDIO-BAC-29",
+        "gameType": 0,
+        "name": "29"
+    },
+    {
+        "tableID": "STUDIO-BAC-3",
+        "gameType": 0,
+        "name": "3"
+    },
+    {
+        "tableID": "STUDIO-BAC-30",
+        "gameType": 0,
+        "name": "30"
+    },
+    {
+        "tableID": "STUDIO-BAC-31",
+        "gameType": 0,
+        "name": "31"
+    },
+    {
+        "tableID": "STUDIO-BAC-32",
+        "gameType": 0,
+        "name": "32"
+    },
+    {
+        "tableID": "STUDIO-BAC-33",
+        "gameType": 0,
+        "name": "33"
+    },
+    {
+        "tableID": "STUDIO-BAC-34",
+        "gameType": 0,
+        "name": "34"
+    },
+    {
+        "tableID": "STUDIO-BAC-35",
+        "gameType": 0,
+        "name": "35"
+    },
+    {
+        "tableID": "STUDIO-BAC-36",
+        "gameType": 0,
+        "name": "36"
+    },
+    {
+        "tableID": "STUDIO-BAC-37",
+        "gameType": 0,
+        "name": "37"
+    },
+    {
+        "tableID": "STUDIO-BAC-38",
+        "gameType": 0,
+        "name": "38"
+    },
+    {
+        "tableID": "STUDIO-BAC-39",
+        "gameType": 0,
+        "name": "39"
+    },
+    {
+        "tableID": "STUDIO-BAC-4",
+        "gameType": 0,
+        "name": "4"
+    },
+    {
+        "tableID": "STUDIO-BAC-40",
+        "gameType": 0,
+        "name": "40"
+    },
+    {
+        "tableID": "STUDIO-BAC-41",
+        "gameType": 0,
+        "name": "41"
+    },
+    {
+        "tableID": "STUDIO-BAC-42",
+        "gameType": 0,
+        "name": "42"
+    },
+    {
+        "tableID": "STUDIO-BAC-43",
+        "gameType": 0,
+        "name": "43"
+    },
+    {
+        "tableID": "STUDIO-BAC-44",
+        "gameType": 0,
+        "name": "44"
+    },
+    {
+        "tableID": "STUDIO-BAC-45",
+        "gameType": 0,
+        "name": "45"
+    },
+    {
+        "tableID": "STUDIO-BAC-46",
+        "gameType": 0,
+        "name": "46"
+    },
+    {
+        "tableID": "STUDIO-BAC-47",
+        "gameType": 0,
+        "name": "47"
+    },
+    {
+        "tableID": "STUDIO-BAC-48",
+        "gameType": 0,
+        "name": "48"
+    },
+    {
+        "tableID": "STUDIO-BAC-49",
+        "gameType": 0,
+        "name": "49"
+    },
+    {
+        "tableID": "STUDIO-BAC-5",
+        "gameType": 0,
+        "name": "5"
+    },
+    {
+        "tableID": "STUDIO-BAC-50",
+        "gameType": 0,
+        "name": "50"
+    },
+    {
+        "tableID": "STUDIO-BAC-51",
+        "gameType": 0,
+        "name": "51"
+    },
+    {
+        "tableID": "STUDIO-BAC-52",
+        "gameType": 0,
+        "name": "52"
+    },
+    {
+        "tableID": "STUDIO-BAC-53",
+        "gameType": 0,
+        "name": "53"
+    },
+    {
+        "tableID": "STUDIO-BAC-54",
+        "gameType": 0,
+        "name": "54"
+    },
+    {
+        "tableID": "STUDIO-BAC-55",
+        "gameType": 0,
+        "name": "55"
+    },
+    {
+        "tableID": "STUDIO-BAC-56",
+        "gameType": 0,
+        "name": "56"
+    },
+    {
+        "tableID": "STUDIO-BAC-57",
+        "gameType": 0,
+        "name": "57"
+    },
+    {
+        "tableID": "STUDIO-BAC-58",
+        "gameType": 0,
+        "name": "58"
+    },
+    {
+        "tableID": "STUDIO-BAC-59",
+        "gameType": 0,
+        "name": "59"
+    },
+    {
+        "tableID": "STUDIO-BAC-6",
+        "gameType": 0,
+        "name": "6"
+    },
+    {
+        "tableID": "STUDIO-BAC-60",
+        "gameType": 0,
+        "name": "60"
+    },
+    {
+        "tableID": "STUDIO-BAC-61",
+        "gameType": 0,
+        "name": "61"
+    },
+    {
+        "tableID": "STUDIO-BAC-62",
+        "gameType": 0,
+        "name": "62"
+    },
+    {
+        "tableID": "STUDIO-BAC-63",
+        "gameType": 0,
+        "name": "63"
+    },
+    {
+        "tableID": "STUDIO-BAC-64",
+        "gameType": 0,
+        "name": "64"
+    },
+    {
+        "tableID": "STUDIO-BAC-65",
+        "gameType": 0,
+        "name": "65"
+    },
+    {
+        "tableID": "STUDIO-BAC-66",
+        "gameType": 0,
+        "name": "66"
+    },
+    {
+        "tableID": "STUDIO-BAC-67",
+        "gameType": 0,
+        "name": "67"
+    },
+    {
+        "tableID": "STUDIO-BAC-68",
+        "gameType": 0,
+        "name": "68"
+    },
+    {
+        "tableID": "STUDIO-BAC-69",
+        "gameType": 0,
+        "name": "69"
+    },
+    {
+        "tableID": "STUDIO-BAC-7",
+        "gameType": 0,
+        "name": "7"
+    },
+    {
+        "tableID": "STUDIO-BAC-70",
+        "gameType": 0,
+        "name": "70"
+    },
+    {
+        "tableID": "STUDIO-BAC-71",
+        "gameType": 0,
+        "name": "71"
+    },
+    {
+        "tableID": "STUDIO-BAC-72",
+        "gameType": 0,
+        "name": "72"
+    },
+    {
+        "tableID": "STUDIO-BAC-73",
+        "gameType": 0,
+        "name": "73"
+    },
+    {
+        "tableID": "STUDIO-BAC-74",
+        "gameType": 0,
+        "name": "74"
+    },
+    {
+        "tableID": "STUDIO-BAC-75",
+        "gameType": 0,
+        "name": "75"
+    },
+    {
+        "tableID": "STUDIO-BAC-76",
+        "gameType": 0,
+        "name": "76"
+    },
+    {
+        "tableID": "STUDIO-BAC-77",
+        "gameType": 0,
+        "name": "77"
+    },
+    {
+        "tableID": "STUDIO-BAC-78",
+        "gameType": 0,
+        "name": "78"
+    },
+    {
+        "tableID": "STUDIO-BAC-79",
+        "gameType": 0,
+        "name": "79"
+    },
+    {
+        "tableID": "STUDIO-BAC-8",
+        "gameType": 0,
+        "name": "8"
+    },
+    {
+        "tableID": "STUDIO-BAC-80",
+        "gameType": 0,
+        "name": "80"
+    },
+    {
+        "tableID": "STUDIO-BAC-81",
+        "gameType": 0,
+        "name": "81"
+    },
+    {
+        "tableID": "STUDIO-BAC-82",
+        "gameType": 0,
+        "name": "82"
+    },
+    {
+        "tableID": "STUDIO-BAC-83",
+        "gameType": 0,
+        "name": "83"
+    },
+    {
+        "tableID": "STUDIO-BAC-84",
+        "gameType": 0,
+        "name": "84"
+    },
+    {
+        "tableID": "STUDIO-BAC-85",
+        "gameType": 0,
+        "name": "85"
+    },
+    {
+        "tableID": "STUDIO-BAC-86",
+        "gameType": 0,
+        "name": "86"
+    },
+    {
+        "tableID": "STUDIO-BAC-87",
+        "gameType": 0,
+        "name": "87"
+    },
+    {
+        "tableID": "STUDIO-BAC-88",
+        "gameType": 0,
+        "name": "88"
+    },
+    {
+        "tableID": "STUDIO-BAC-89",
+        "gameType": 0,
+        "name": "89"
+    },
+    {
+        "tableID": "STUDIO-BAC-9",
+        "gameType": 0,
+        "name": "9"
+    },
+    {
+        "tableID": "STUDIO-BAC-90",
+        "gameType": 0,
+        "name": "90"
+    },
+    {
+        "tableID": "STUDIO-BAC-901",
+        "gameType": 0,
+        "name": "901"
+    },
+    {
+        "tableID": "STUDIO-BAC-902",
+        "gameType": 0,
+        "name": "902"
+    },
+    {
+        "tableID": "STUDIO-BAC-903",
+        "gameType": 0,
+        "name": "903"
+    },
+    {
+        "tableID": "STUDIO-BAC-904",
+        "gameType": 0,
+        "name": "904"
+    },
+    {
+        "tableID": "STUDIO-BAC-905",
+        "gameType": 0,
+        "name": "905"
+    },
+    {
+        "tableID": "STUDIO-BAC-906",
+        "gameType": 0,
+        "name": "906"
+    },
+    {
+        "tableID": "STUDIO-BAC-907",
+        "gameType": 0,
+        "name": "907"
+    },
+    {
+        "tableID": "STUDIO-BAC-908",
+        "gameType": 0,
+        "name": "908"
+    },
+    {
+        "tableID": "STUDIO-BAC-909",
+        "gameType": 0,
+        "name": "909"
+    },
+    {
+        "tableID": "STUDIO-BAC-910",
+        "gameType": 0,
+        "name": "910"
+    },
+    {
+        "tableID": "STUDIO-BAM-4",
+        "gameType": 18,
+        "name": "4"
+    },
+    {
+        "tableID": "STUDIO-BAS-10",
+        "gameType": 1,
+        "name": "10"
+    },
+    {
+        "tableID": "STUDIO-BAS-3",
+        "gameType": 1,
+        "name": "3"
+    },
+    {
+        "tableID": "STUDIO-DIL-101",
+        "gameType": 19,
+        "name": "101"
+    },
+    {
+        "tableID": "STUDIO-DIL-102",
+        "gameType": 19,
+        "name": "102"
+    },
+    {
+        "tableID": "STUDIO-DIL-103",
+        "gameType": 19,
+        "name": "103"
+    },
+    {
+        "tableID": "STUDIO-DT-2",
+        "gameType": 5,
+        "name": "2"
+    },
+    {
+        "tableID": "STUDIO-DT-904",
+        "gameType": 5,
+        "name": "904"
+    },
+    {
+        "tableID": "STUDIO-LO-203",
+        "gameType": 15,
+        "name": "4"
+    },
+    {
+        "tableID": "STUDIO-LO-311",
+        "gameType": 15,
+        "name": "1"
+    },
+    {
+        "tableID": "STUDIO-LO-312",
+        "gameType": 15,
+        "name": "2"
+    },
+    {
+        "tableID": "STUDIO-LO-313",
+        "gameType": 15,
+        "name": "5"
+    },
+    {
+        "tableID": "STUDIO-LO-314",
+        "gameType": 15,
+        "name": "6"
+    },
+    {
+        "tableID": "STUDIO-LO-315",
+        "gameType": 15,
+        "name": "7"
+    },
+    {
+        "tableID": "STUDIO-LW-6",
+        "gameType": 16,
+        "name": "6"
+    },
+    {
+        "tableID": "STUDIO-LW-901",
+        "gameType": 16,
+        "name": "901"
+    },
+    {
+        "tableID": "STUDIO-RC-201",
+        "gameType": 22,
+        "name": "6"
+    },
+    {
+        "tableID": "STUDIO-RC-301",
+        "gameType": 22,
+        "name": "1"
+    },
+    {
+        "tableID": "STUDIO-RC-302",
+        "gameType": 22,
+        "name": "2"
+    },
+    {
+        "tableID": "STUDIO-RC-303",
+        "gameType": 22,
+        "name": "3"
+    },
+    {
+        "tableID": "STUDIO-RC-304",
+        "gameType": 22,
+        "name": "4"
+    },
+    {
+        "tableID": "STUDIO-RC-305",
+        "gameType": 22,
+        "name": "5"
+    },
+    {
+        "tableID": "STUDIO-RC-306",
+        "gameType": 22,
+        "name": "7"
+    },
+    {
+        "tableID": "STUDIO-RO-1",
+        "gameType": 14,
+        "name": "1"
+    },
+    {
+        "tableID": "STUDIO-RO-910",
+        "gameType": 14,
+        "name": "910"
+    },
+    {
+        "tableID": "STUDIO-ROL-1",
+        "gameType": 17,
+        "name": "1"
+    },
+    {
+        "tableID": "STUDIO-ROL-910",
+        "gameType": 17,
+        "name": "910"
+    }
+]

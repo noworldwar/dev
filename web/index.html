@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="app">
+        {{ message }}
+    </div>
+    <div id="app-2">
+        <p v-if='seen'>Now you see me!</p>
+    </div>
+    <div id="app-3">
+        <ol>
+            <li v-for="todo in todos">
+                {{ todo.text }}
+            </li>
+        </ol>
+    </div>
+
+    <div id="app-4">
+        <p>{{ message }}</p>
+        <button v-on:click="reverseMessage">Reverse</button>
+    </div>
+
+    <div id="app-5">
+        <p>{{ message }}</p>
+        <input v-model="message">
+    </div>
+
+    <div id="app-6">
+        <ol>
+            <todo-item v-for="item in list" v-bind:todo="item" v-bind:key="item.id">
+
+            </todo-item>
+        </ol>
+    </div>
+
+</body>
+
+</html>
+
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue ' + new Date().toLocaleString()
+        }
+    })
+
+    var app2 = new Vue({
+        el: '#app-2',
+        data: {
+            seen: true
+        }
+    })
+
+    var app3 = new Vue({
+        el: '#app-3',
+        data: {
+            todos: [
+                { text: "A" },
+                { text: "B" },
+                { text: "C" },
+                { text: "D" }
+            ]
+        }
+    })
+
+    app3.todos.push({ text: "E" })
+
+    var app4 = new Vue({
+        el: '#app-4',
+        data: {
+            message: 'Hello Vue.js'
+        },
+        methods: {
+            reverseMessage: function () {
+                this.message = this.message.split('').reverse().join('')
+            }
+        }
+    })
+
+    var app5 = new Vue({
+        el: '#app-5',
+        data: {
+            message: 'Hello Ray Allen'
+        }
+    })
+
+    Vue.component('todo-item', {
+        props: ['todo'],
+        template: '<li>{{ todo.text }}</li>'
+    })
+
+    var app6 = new Vue({
+        el: '#app-6',
+        data: {
+            list: [
+                { id: 0, text: '錢' },
+                { id: 1, text: '錢' },
+                { id: 2, text: '還是錢' }
+            ]
+        }
+    })
+</script>

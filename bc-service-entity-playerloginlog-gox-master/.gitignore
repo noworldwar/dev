@@ -1,0 +1,55 @@
+=======
+# OS Files and cache
+.DS_Store
+.sass-cache
+node_modules
+/dist
+/mysql-data
+/api/tmp/
+/api/logs/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+./config.json
+
+# Test binary, build with `go test -c`
+*.test
+
+*.png
+*.jpg
+*.cmd
+
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+vsc.code-workspace
+
+# Package log file
+package-lock.json
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
