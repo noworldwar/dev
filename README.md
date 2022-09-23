@@ -1,2 +1,2 @@
 # dev
-for practice
+For practicing golang
